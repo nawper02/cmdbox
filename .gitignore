@@ -73,6 +73,7 @@ cmake-build-*/
 *.exe
 *.out
 *.app
+clipman
 
 # OS generated files
 .DS_Store
