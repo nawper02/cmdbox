@@ -1,0 +1,8 @@
+/Users/kinblandford/cmdbox/build/CMakeFiles/clipman.dir
+/Users/kinblandford/cmdbox/build/CMakeFiles/test.dir
+/Users/kinblandford/cmdbox/build/CMakeFiles/edit_cache.dir
+/Users/kinblandford/cmdbox/build/CMakeFiles/rebuild_cache.dir
+/Users/kinblandford/cmdbox/build/CMakeFiles/list_install_components.dir
+/Users/kinblandford/cmdbox/build/CMakeFiles/install.dir
+/Users/kinblandford/cmdbox/build/CMakeFiles/install/local.dir
+/Users/kinblandford/cmdbox/build/CMakeFiles/install/strip.dir
