@@ -94,17 +94,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Building for Different Platforms
 
-### Windows
-```bash
-cmake -G "Visual Studio 16 2019" ..
-cmake --build . --config Release
-```
-
-### macOS/Linux
-```bash
-cmake -DCMAKE_BUILD_TYPE=Release ..
-make
-```
+`./build.sh`
 
 ## Known Issues
 
